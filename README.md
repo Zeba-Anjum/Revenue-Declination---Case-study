@@ -1,0 +1,2 @@
+# Revenue-Declination---Case-study
+A 450-bed hospital in Hyderabad has runs ambulance service using two business models – One is  Own Ambulances and other is by partnering with third party Ambulance Operators (here forth called  as Partners). It works on a 25% commission model with them.  The hospital is seeing a decline in Ambulance revenue despite no decrease in trips .Analyzing the given dataset ,doing exploratory analysis of the data various insights were found. 
